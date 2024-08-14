@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\HDA\Semester_2\SDHD\Lab\SDHD_Lab5\Software\Lab03_Lab04\Motion_Detection.cydsn\Motion_Detection.cyprj|c81de0e5-6236-4b55-8de6-c9b82704ac2a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e289c3af-0fc9-4107-aa59-5f683aa8a722
+C:\Users\Asus\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|fb2d46bf-d00c-4fd5-acf0-16fbbb1db853
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cb35419a-777b-415a-9fb5-e6f3b6bb96cf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2bbef698-bb37-4615-9209-1674e98e8481
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8ac31e0e-e9db-4e9c-9bb7-6dfe665ea4e5
